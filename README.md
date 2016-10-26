@@ -1,5 +1,5 @@
 # Cookies and Sessions Lab
-
+#important t-shirt business - let's do it
 ## Objective
 
 We're going to make a very simple shopping cart, stored entirely in the session.
